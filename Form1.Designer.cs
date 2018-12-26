@@ -7,6 +7,7 @@
         /// </summary>
         private System.ComponentModel.IContainer components = null;
         // This is a comment
+        // Added another comment for test
 
         /// <summary>
         /// Clean up any resources being used.
