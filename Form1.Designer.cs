@@ -6,8 +6,9 @@
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-        // This is a comment
+        // This is a comment    
         // Learning to use git
+        // making a change
         
 
         /// <summary>
